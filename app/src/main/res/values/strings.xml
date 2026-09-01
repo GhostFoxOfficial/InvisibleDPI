@@ -42,7 +42,7 @@
     <string name="failed_to_start">Failed to start %1$s</string>
     <string name="vpn_channel_name">VPN</string>
     <string name="proxy_channel_name">Proxy</string>
-    <string name="notification_title">ByeDPI</string>
+    <string name="notification_title">InvisibleDPI</string>
     <string name="vpn_notification_content">VPN is running</string>
     <string name="proxy_notification_content">Proxy is running</string>
     <string name="general_category">General</string>
