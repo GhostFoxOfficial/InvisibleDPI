@@ -46,10 +46,10 @@ No. All application features work without root.
 
 No. The application uses the VPN mode on Android to redirect traffic, but does not send anything to a remote server. It does not encrypt traffic and does not hide your IP address.
 
-### How to use ByeDPI with AdGuard?
+### How to use InvisibleDPI with AdGuard?
 
-1. Run ByeDPI in proxy mode.
-2. Add ByeDPI to AdGuard exceptions on the "App management" tab.
+1. Run InvisibleDPI in proxy mode.
+2. Add InvisibleDPI to AdGuard exceptions on the "App management" tab.
 3. In AdGuard settings, specify the proxy:
 
    ```plaintext
@@ -72,7 +72,7 @@ DPI (Deep Packet Inspection) is a technology for analyzing and filtering traffic
 
 ## Dependencies
 
-- [ByeDPI](https://github.com/hufrea/byedpi)
+- [InvisibleDPI](https://github.com/GhostFoxOfficial/InvisibleDPI)
 - [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
 
 ## Building
