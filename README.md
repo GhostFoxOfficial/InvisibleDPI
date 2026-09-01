@@ -1,4 +1,4 @@
-# ByeDPI for Android
+# InvisibleDPI for Android
 
 **English** | [Русский](README-ru.md)
 
@@ -11,7 +11,7 @@
 Android application that runs a local VPN service to bypass DPI (Deep Packet Inspection) and censorship.
 
 
-This application runs a SOCKS5 proxy [ByeDPI](https://github.com/hufrea/byedpi) and redirects all traffic through it.
+This application runs a SOCKS5 proxy [InvisibleDPI](https://github.com/GhostFoxOfficial/InvisibleDPI) and redirects all traffic through it.
 
 ## Installation
 
@@ -26,7 +26,7 @@ This application runs a SOCKS5 proxy [ByeDPI](https://github.com/hufrea/byedpi) 
 
 1. Install [Obtainium](https://github.com/ImranR98/Obtainium/blob/main/README.md#installation)
 2. Add the app by URL:  
-   `https://github.com/dovecoteescapee/ByeDPIAndroid`
+   `https://github.com/GhostFoxOfficial/InvisibleDPI`
 
 ## Settings
 
@@ -36,7 +36,7 @@ To bypass some blocks, you may need to change the settings. More about the vario
 
 ### I can't configure it. What to do?
 
-You can ask for help in [discussion](https://github.com/dovecoteescapee/ByeDPIAndroid/discussions).
+You can ask for help in [discussion](https://github.com/GhostFoxOfficial/InvisibleDPI/discussions).
 
 ### Does the application require root access?
 
