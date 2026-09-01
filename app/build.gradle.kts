@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "io.github.dovecoteescapee.byedpi"
+        applicationId = "io.github.ghostfox.invisibledpi"
         minSdk = 21
         targetSdk = 34
         versionCode = 10
