@@ -1,6 +1,6 @@
 # InvisibleDPI for Android
 
-**English** | [Русский](README-ru.md)
+**English**
 
 <div style="text-align: center;">
   <img alt="ByeDPI logo" src=".github/images/logo.svg" width="100%" height="200px">
